@@ -30,10 +30,10 @@ $ xcode-select --install
 
 ## Install dotfiles
 
-[下載](https://github.com/amowu/dotfiles/archive/master.zip)或使用 git clone 一份到 `$HOME` 目錄底下的 `.dotfiles` 資料夾裡面:
+[下載](https://github.com/opo2000tw/dotfiles/archive/master.zip)或使用 git clone 一份到 `$HOME` 目錄底下的 `.dotfiles` 資料夾裡面:
 
 ```bash
-$ git clone https://github.com/amowu/dotfiles.git ~/.dotfiles
+$ git clone https://github.com/opo2000tw/dotfiles.git ~/.dotfiles
 ```
 
 進入 `.dotfiles` 資料夾:
