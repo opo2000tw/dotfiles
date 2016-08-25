@@ -1,1 +1,1 @@
-export AWS_REGION="ap-northeast-1"
+export AWS_REGION="ap-southeast-1"
